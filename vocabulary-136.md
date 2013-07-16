@@ -1,6 +1,5 @@
-
 Education
-
+--
    * parenting
    * schooling
    * cultivate
@@ -19,7 +18,7 @@ Education
 Schools should not only provide students with fun of study, but also cultivate their feelings of responsibilities.
 
 Media
-
+--
    * prevalent
    * objective
    * biased
@@ -35,8 +34,9 @@ Media
    * entertaining
 
 Some reports of social incidents written by the press might be misleading.
-Technology
 
+Technology
+--
    * transform
    * breakthrough
    * advance
@@ -50,7 +50,7 @@ Technology
 New technology and inventions are transforming our lives in a staggering rate.
 
 Government
-
+--
    * priority
    * stability
    * establish
@@ -67,8 +67,9 @@ Government
    * efficient
 
 The government is responsible for the using of tax revenue to meet citizen's demands such as addressing the environmental issues.
-Tourism
 
+Tourism
+--
    * broaden one's horizons/expand one's outlook
    * conflicts
    * explore
@@ -79,8 +80,9 @@ Tourism
    * enrich one's experience
 
 On one hand, tourism may enrich individual's experience and broaden his or her horizons. On the other hand, it may generate conflicts between tourists and local residents. 
-Languages
 
+Languages
+--
    * the proliferation of
    * plays a dominant role in
    * go extinct
@@ -88,8 +90,9 @@ Languages
    * the widespread use of
 
 The global proliferation of English causes many lesser-known languages go extinct. 
-Culture
 
+Culture
+--
    * ancestors
    * descendants
    * culture assimilation
@@ -101,8 +104,9 @@ Culture
    * ethnic minorities
 
 The time-honoured culture heritages created by our ancestors should be protected. 
-Development
 
+Development
+--
    * the pace of life=the tempo of life
    * the gap between the urban area and the rural area
    * eliminate
@@ -117,7 +121,7 @@ Development
 The fast pace of urban life makes people increasingly realistic and alienated.
 
 Globalisation
-
+--
    * sweeping trends
    * synthesis the Asian and the Western cultures
    * erode
@@ -127,8 +131,9 @@ Globalisation
    * export
 
 The American culture is heavily eroding many cultures of other countries. This phenomenon requires other countries to learn how to synthesis the external culture and native culture. 
-Women
 
+Women
+--
    * domestic violence
    * gender equality
    * discrimination
@@ -139,7 +144,7 @@ Women
 In an enlightened society, domestic violence should be seen as harm to women's rights.
 
 Family
-
+--
    * offspring
    * personality clashes
    * household
@@ -152,7 +157,7 @@ Family
    * harmony
 
 Crime
-
+--
    * crimes=offence=criminal acts
    * commit a crime
    * stringent
@@ -167,7 +172,7 @@ Crime
    * reform/rehabilitate criminals
 
 Animals
-
+--
    * preserve
    * inhumane
    * biodiversity
@@ -180,7 +185,7 @@ Animals
 Animal experiments should be stopped because they are inhumane to animals -- our best companions on earth.
 
 Environment
-
+--
    * sustainable development
    * exploit natural resources
    * the ecosystem
@@ -195,6 +200,8 @@ Environment
    * scarcity
 
 
+Words Fillings
+--
 motivation
 revenue
 heritage
@@ -203,4 +210,19 @@ authorities
 proliferation
 facilities
 
+Words Corrections
+--
+deteriorated -> aggravated
+crime -> commit a crime
+develop -> development of
 
+Synonyms
+--
+influence=impact
+need=demand
+improve=enhance
+dangers=threats
+solve=tackle=resolve=address
+good=
+bad=
+clear=
