@@ -47,6 +47,8 @@ Technology
    * telecommunications
    * productive
 
+New technology and inventions are transforming our lives in a staggering rate.
+
 Government
 
    * priority
@@ -134,6 +136,8 @@ Women
    * household chores
    * be tied down by
 
+In an enlightened society, domestic violence should be seen as harm to women's rights.
+
 Family
 
    * offspring
@@ -173,6 +177,8 @@ Animals
    * endangered species
    * hide
 
+Animal experiments should be stopped because they are inhumane to animals -- our best companions on earth.
+
 Environment
 
    * sustainable development
@@ -187,4 +193,14 @@ Environment
    * consume=deplete
    * eco-friendly
    * scarcity
+
+
+motivation
+revenue
+heritage
+transformed
+authorities
+proliferation
+facilities
+
 
